@@ -134,10 +134,11 @@ button:focus-visible {
   background: #9c3db9;
   margin-top: 25px;
   margin-left: 45%;
-  color: white;
+  color: black;
   border: none;
   text-align: center;
   align-items: center;
   border-radius: 27px;
   cursor: pointer;
+
 }
